@@ -97,6 +97,7 @@ class UntitledIcons {
   static const String home = 'home';
   static const String homeLine = 'home-line';
   static const String homeSmile = 'home-smile';
+  static const String helpCircle = 'help-circle';
   static const String icon = 'icon';
   static const String imagePlus = 'image-plus';
   static const String imageUserPlus = 'image-user-plus';
