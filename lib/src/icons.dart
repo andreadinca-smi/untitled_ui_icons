@@ -94,6 +94,7 @@ class UntitledIcons {
   static const String headphones01 = 'headphones-01';
   static const String heartHand = 'heart-hand';
   static const String heart = 'heart';
+  static const String home = 'home';
   static const String homeLine = 'home-line';
   static const String homeSmile = 'home-smile';
   static const String icon = 'icon';
